@@ -1,0 +1,18 @@
+# Section title
+title = "Cloud Native"
+
+[[projects]]
+    name = "Cloud Native Platform"
+    folder = "proj-1"
+
+[[projects]]
+    name = "Cloud Native Application Framework"
+    folder = "proj-2"
+
+[[projects]]
+    name = "Cloud Native Automation"
+    folder = "proj-3"
+
+[[projects]]
+    name = "Pivotal Labs"
+    folder = "proj-4"

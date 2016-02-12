@@ -1,0 +1,37 @@
+# Section title
+title = "Team"
+
+[[list]]
+    avatar = "dan.jpg"
+    name   = "Dan Mearls"
+    title  = "Director Sales New England"
+    quote  = "**Working with Dan was the highlight of my career.** Other moments of note were collecting the largest number of paperclips in the office, ..."
+    logo   = "logo1.png"
+
+[[list]]
+    avatar = "jeff.jpg"
+    name   = "Jeff Glenn"
+    title  = "Account Executive"
+    quote  = "**While we all felt that Jeff was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
+    logo   = "logo2.png"
+
+[[list]]
+    avatar = "jay.jpg"
+    name   = "Jay Polo"
+    title  = "Account Executive"
+    quote  = "**Yea, I guess he's good at computers or something,** but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?"
+    logo   = "logo3.png"
+
+[[list]]
+    avatar = "yadhav.jpg"
+    name   = "Yadhav Jayaraman"
+    title  = "Platform Architect"
+    quote  = "**Back in old country** only nerds were playing on computers. Now ..."
+    logo   = "logo4.png"
+
+[[list]]
+    avatar = "mark.jpg"
+    name   = "Mark Fynes"
+    title  = "Platform Architect"
+    quote  = "**Back in old country** only nerds were playing on computers. Now ..."
+    logo   = "logo4.png"
